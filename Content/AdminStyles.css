@@ -1,0 +1,124 @@
+﻿body {
+    font-family: "Arial";
+    background-color: gainsboro;
+}
+
+h1.title {
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+div#nav {
+    text-align: center;
+}
+
+div#nav a {
+    font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial;
+    display: inline-block;
+    color: black;
+    padding: 6px 15px;
+    border: solid medium black;
+    text-decoration: none;
+    text-align: center;
+}
+
+div#nav a:hover {
+    background: #888;
+    color: white;
+}
+
+.adminContent {
+    margin: 20px 0;
+    border: solid thin black;
+    padding: 5px;
+}
+
+#ordersCheck {
+    font: bold 1.1em "Arial Narrow","Franklin Gothic Medium",Arial;
+    margin-top: 10px;
+    text-align: center;
+}
+
+div.outerContainer {
+    text-align: center;
+    margin: 20px 0;
+}
+
+table {
+    margin: auto;
+    text-align: left;
+    border-spacing: 70px 10px;
+    border: 4px double black;
+}
+
+table th, table td {
+    text-align: left;
+    width: 140px;
+    padding: 0px 10px;
+}
+
+#ordersTable th:nth-last-child(2), #ordersTable td:nth-last-child(2) {
+    text-align: right;
+}
+
+#productsTable td.description span {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 150px;
+    display: inline-block;
+}
+
+#productsTable td:last-of-type {
+    width: 210px;
+}
+
+#productsTable input[type=submit] {
+    width: 100px;
+    padding: 8px;
+}
+
+.loginContainer {
+    padding: 10px;
+    text-align: center;
+}
+
+.loginContainer label {
+    display: inline-block;
+    width: 120px;
+    margin: 5px;
+}
+
+.loginContainer input {
+    width: 150px;
+    margin: 5px;
+}
+
+.loginContainer button {
+    margin-top: 10px;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    margin: 10px;
+}
+
+.order__send {
+    width: 165px;
+    background-color: transparent;
+    padding: 5px 5px;
+    font-size: 15px;
+}
+
+.admin__nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.admin__nav a:last-child{
+    margin-left: 30px;
+}

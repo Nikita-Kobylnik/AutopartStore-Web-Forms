@@ -1,0 +1,39 @@
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\AutopartStore2.dll.config
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\AutopartStore2.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\AutopartStore2.pdb
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\EntityFramework.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\EntityFramework.SqlServer.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\EntityFramework.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\EntityFramework.SqlServer.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\obj\Debug\AutopartStore2.csproj.CoreCompileInputs.cache
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\obj\Debug\AutopartStore2.csproj.CopyComplete
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\obj\Debug\AutopartStore2.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\obj\Debug\AutopartStore2.pdb
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\obj\Debug\AutopartStore2.csprojAssemblyReference.cache
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\Antlr3.Runtime.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\Newtonsoft.Json.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\System.Web.Optimization.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\WebGrease.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\Antlr3.Runtime.pdb
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\Newtonsoft.Json.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore2\bin\System.Web.Optimization.xml
+D:\Photo\AutopartStore2\bin\AutopartStore2.dll.config
+D:\Photo\AutopartStore2\bin\AutopartStore2.dll
+D:\Photo\AutopartStore2\bin\AutopartStore2.pdb
+D:\Photo\AutopartStore2\bin\Antlr3.Runtime.dll
+D:\Photo\AutopartStore2\bin\EntityFramework.dll
+D:\Photo\AutopartStore2\bin\EntityFramework.SqlServer.dll
+D:\Photo\AutopartStore2\bin\Microsoft.Web.Infrastructure.dll
+D:\Photo\AutopartStore2\bin\Newtonsoft.Json.dll
+D:\Photo\AutopartStore2\bin\System.Web.Optimization.dll
+D:\Photo\AutopartStore2\bin\WebGrease.dll
+D:\Photo\AutopartStore2\bin\Antlr3.Runtime.pdb
+D:\Photo\AutopartStore2\bin\EntityFramework.xml
+D:\Photo\AutopartStore2\bin\EntityFramework.SqlServer.xml
+D:\Photo\AutopartStore2\bin\Newtonsoft.Json.xml
+D:\Photo\AutopartStore2\bin\System.Web.Optimization.xml
+D:\Photo\AutopartStore2\obj\Debug\AutopartStore2.csproj.AssemblyReference.cache
+D:\Photo\AutopartStore2\obj\Debug\AutopartStore2.csproj.CoreCompileInputs.cache
+D:\Photo\AutopartStore2\obj\Debug\AutopartStore2.dll
+D:\Photo\AutopartStore2\obj\Debug\AutopartStore2.pdb
